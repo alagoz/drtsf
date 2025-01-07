@@ -1,9 +1,9 @@
 # DRTSF: Diverse Representations and Transformations for Time Series Classification
-Diverse Representations Time Series Framework (DRTSF) is a novel feature-based approach for time series classification that integrates a rich set of representations, including derivatives, Hilbert transform, DWT, FFT, DCT, and autocorrelation. By transforming time series into a unified feature vector, DRTSF captures intricate patterns across multiple domains, enabling superior predictive performance.
+Diverse Representations Time Series Features (DRTSF) is a novel feature-based approach for time series classification (TSC) that integrates a rich set of representations, including derivatives, Hilbert transform, DWT, FFT, DCT, and autocorrelation. By transforming time series into a unified feature vector, DRTSF captures intricate patterns across multiple domains, enabling superior predictive performance.
 
 Key Features:
 - Comprehensive Representation: Combines diverse statistical, temporal, and spectral features into a cohesive feature set.
-- State-of-the-Art Accuracy: Outperforms other feature-based methods and achieves results comparable to top-performing models like Quant.
+- State-of-the-Art Accuracy: Outperforms other feature-based methods and achieves results comparable to top-performing TSC models like Quant.
 - Efficiency: One of the fastest TSC frameworks, matching the computational speed of leading methods.
 - Robust Generalization: Performs well on datasets with complex structures, such as long sequences or large class counts.
 
