@@ -1,3 +1,4 @@
+Note: The codes content will be shared once the revision process for the work begins.
 # DRTSF: Diverse Representations and Transformations for Time Series Classification
 Diverse Representations Time Series Features (DRTSF) is a novel feature-based approach for time series classification (TSC) that integrates a rich set of representations, including derivatives, Hilbert transform, DWT, FFT, DCT, and autocorrelation. By transforming time series into a unified feature vector, DRTSF captures intricate patterns across multiple domains, enabling superior predictive performance.
 
