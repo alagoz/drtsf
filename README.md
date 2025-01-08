@@ -24,8 +24,11 @@ Highlights:
 - Provides insights into feature selection and optimization, allowing for further customization based on dataset-specific needs.
 
 Some Results:
+
 MCM for feature based methods and DRTSF:
+
 ![fig_mcm_fb](https://github.com/user-attachments/assets/08f6a4b5-2fc6-4816-87e5-5be216e5ea95)
 
 MCM for state of the art and DRTSF:
+
 ![fig_mcm_sota](https://github.com/user-attachments/assets/3b1f733e-40c0-47c0-bfa4-12dcb5096203)
